@@ -1,7 +1,0 @@
-echo "# BPC-PC1T" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/DommixGamer/BPC-PC1T.git
-git push -u origin main
